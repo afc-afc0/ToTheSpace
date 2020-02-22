@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7674932787083167864
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 94822895194589325, guid: 529b433cef4161b4db9fcfa2f1cc5395,
+        type: 3}
+      propertyPath: poolObject
+      value: 
+      objectReference: {fileID: 5233455052362670792, guid: 2bf7e5e789f609b4a98cf7417dc8e6b4,
+        type: 3}
+    - target: {fileID: 2948555070236558706, guid: 529b433cef4161b4db9fcfa2f1cc5395,
+        type: 3}
+      propertyPath: fireRate
+      value: 1.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2948555070236558706, guid: 529b433cef4161b4db9fcfa2f1cc5395,
+        type: 3}
+      propertyPath: timeBetweenBullets
+      value: 0.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 8448533414367174503, guid: 529b433cef4161b4db9fcfa2f1cc5395,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.24056602
+      objectReference: {fileID: 0}
+    - target: {fileID: 8448533414367174503, guid: 529b433cef4161b4db9fcfa2f1cc5395,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8448533414367174503, guid: 529b433cef4161b4db9fcfa2f1cc5395,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.9132329
+      objectReference: {fileID: 0}
+    - target: {fileID: 8448533414611580468, guid: 529b433cef4161b4db9fcfa2f1cc5395,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8448533414611580468, guid: 529b433cef4161b4db9fcfa2f1cc5395,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8448533414611580468, guid: 529b433cef4161b4db9fcfa2f1cc5395,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8448533414611580468, guid: 529b433cef4161b4db9fcfa2f1cc5395,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8448533414611580468, guid: 529b433cef4161b4db9fcfa2f1cc5395,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8448533414611580468, guid: 529b433cef4161b4db9fcfa2f1cc5395,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8448533414611580468, guid: 529b433cef4161b4db9fcfa2f1cc5395,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8448533414611580468, guid: 529b433cef4161b4db9fcfa2f1cc5395,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8448533414611580468, guid: 529b433cef4161b4db9fcfa2f1cc5395,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8448533414611580468, guid: 529b433cef4161b4db9fcfa2f1cc5395,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8448533414611580468, guid: 529b433cef4161b4db9fcfa2f1cc5395,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8448533414611580469, guid: 529b433cef4161b4db9fcfa2f1cc5395,
+        type: 3}
+      propertyPath: m_Name
+      value: LaserTurret Level2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8448533414611580471, guid: 529b433cef4161b4db9fcfa2f1cc5395,
+        type: 3}
+      propertyPath: health
+      value: 130
+      objectReference: {fileID: 0}
+    - target: {fileID: 8448533414611580471, guid: 529b433cef4161b4db9fcfa2f1cc5395,
+        type: 3}
+      propertyPath: diamondBounty
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8448533414611580471, guid: 529b433cef4161b4db9fcfa2f1cc5395,
+        type: 3}
+      propertyPath: goldBounty
+      value: 7
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 529b433cef4161b4db9fcfa2f1cc5395, type: 3}
