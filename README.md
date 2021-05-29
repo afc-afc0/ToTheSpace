@@ -7,7 +7,7 @@ https://play.google.com/store/apps/details?id=com.AfCompany.SpaceWars
 
 - Written in C# in Unity
 - Followed OOB design principles : used object pool for pooling bullets, singleton where necessery and SOLID principles
-- Implemented data manager system that saves data money, current level, spaceship informations etc. to  local storage
+- Implemented data manager system that saves data like:  money, current level, spaceship informations etc. to  local storage
 - Used event based UI manager system
 - Enemy has different turrets : Homing missile turret, canon turret, ice turret thay slows you down, sniper turret, spikes and, barriers...
 - Different bose fights in every 24 level. Boses have different kind of skills and a lot of health
