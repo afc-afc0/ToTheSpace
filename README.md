@@ -1,12 +1,14 @@
 
 
 # ToTheSpace
-Spaceship Game 
-Has 120 different levels, different spaceships and upgrades. 
-https://play.google.com/store/apps/details?id=com.AfCompany.SpaceWars
+When I was little, I loved spaceship games. Upon learning the Unity Game Engine, variety of design patterns, and OOP. I wanted to apply what I have learned in a real game. Then I decided to build this game to get a hands-on experience while having fun.
+
+Has 120 different levels, different spaceships and upgrades.
+
+Google Play Store link : https://play.google.com/store/apps/details?id=com.AfCompany.SpaceWars
 
 - Written in C# in Unity
-- Followed OOB design principles : used object pool for pooling bullets, singleton where necessery and SOLID principles
+- Followed OOP design principles : used object pool for pooling bullets, singleton where necessery and SOLID principles
 - Implemented data manager system that saves data like:  money, current level, spaceship informations etc. to  local storage
 - Used event based UI manager system
 - Enemy has different turrets : Homing missile turret, canon turret, ice turret thay slows you down, sniper turret, spikes and, barriers...
