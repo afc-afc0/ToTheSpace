@@ -1,7 +1,6 @@
 
 
 # ToTheSpace
-When I was little, I loved spaceship games. Upon learning the Unity Game Engine, variety of design patterns, and OOP. I wanted to apply what I have learned in a real game. Then I decided to build this game to get a hands-on experience while having fun.
 
 Has 120 different levels, different spaceships and upgrades.
 
